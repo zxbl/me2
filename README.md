@@ -1,6 +1,6 @@
 #真相部落 有圖文 有音頻 有視頻 有真相<br>
 #當前有效網址：<br>
-http://5.39.podzone.org/<br>
+http://5.875.allyopen.com/<br>
 http://me.83.from-me.org/<br>
 http://242.servehalflife.com/<br>
 http://5.cd.ivi.pl/<br>
