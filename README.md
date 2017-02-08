@@ -2,7 +2,7 @@
 #當前有效網址：<br>
 http://5.875.allyopen.com/<br>
 http://me.83.from-me.org/<br>
-http://242.servehalflife.com/<br>
+http://yo.yoo.ro/<br>
 http://5.cd.ivi.pl/<br>
 
 <a href="http://5.cd.ivi.pl/zx/" target="_blank"><img src="http://5.cd.ivi.pl/pic/2016/11/p7829911a215010452.jpg">
