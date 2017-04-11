@@ -8,7 +8,7 @@
 	<H4><a href="http://51.71.mathebau.de/zx/">有图文 有音频 有视频 有真相</a></H4>
 </td>
 <td>
-	<H1><a href="http://51.71.mathebau.de/book/"> 内地看不到的禁书</a></H1>
+	<H1><a href="http://53.71.mathebau.de/book/"> 内地看不到的禁书</a></H1>
 </td>
 </tr>
 </table>
@@ -17,7 +17,7 @@
 
 <table>
 <tr>
-	<td><a href="http://52.j43.decisense.com/xtr/107/"><img  src ="http://52.j43.decisense.com/pic/2017/02/107.jpg" width="155px" height="130px"></a></td>
+	<td><a href="http://54.j43.decisense.com/xtr/107/"><img  src ="http://52.j43.decisense.com/pic/2017/02/107.jpg" width="155px" height="130px"></a></td>
 	<td><a href="http://52.j43.decisense.com/xtr/829/"><img src ="http://52.j43.decisense.com/pic/2017/02/829.jpg" width="155px" height="130px"></a></td>
 	<td><a href="http://52.j43.decisense.com/xtr/69/"><img  src ="http://52.j43.decisense.com/pic/2017/02/69.jpg" width="155px" height="130px"></a></td>
 	<td><a href="http://52.j43.decisense.com/xtr/99/"><img  src ="http://52.j43.decisense.com/pic/2017/02/99.jpg" width="155px" height="130px"></a></td>
